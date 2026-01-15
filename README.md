@@ -144,3 +144,9 @@ These metrics ensure clusters are both **mathematically meaningful and practical
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+3. Run the Jupyter Notebook:
+```bash
+jupyter notebook
+```
+4. Execute the notebook from top to bottom
